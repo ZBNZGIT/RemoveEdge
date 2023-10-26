@@ -8,15 +8,17 @@ Before using this script, make sure you have the following:
 - 💻 Windows Operating System 
 - 🔑 Administrator privileges 
 
-## ⚠️ Caution
+## Caution
 
 ⚠️ Please note that removing Microsoft Edge is not recommended for most users. Only proceed if you have a specific reason to do so. 
 
-## 🛑 What This Script Does
+## What This Script Does
 The script performs the following steps to remove Microsoft Edge:
 
 🛑 Stops related services and processes to prevent any conflicts during the removal process. 
+
 ❌ Uninstalls Microsoft Edge using PowerShell commands. 
+
 🗑️ Cleans up any residual files and registry entries associated with Microsoft Edge. 
 
 ## Usage
