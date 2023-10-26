@@ -26,3 +26,5 @@ The script performs the following steps to remove Microsoft Edge:
 1. Download the script from this repository to your Windows machine. ⬇️
 
 2. Right click on RemoveEdge.bat and run as Administrator (Make sure the script is on your Desktop). 📂
+
+![EdgeRemoved](https://github.com/zachb1311/RemoveEdge/assets/68793343/2a79c302-9faf-4a20-8773-18d0590d251e)
